@@ -13,8 +13,8 @@ You are required to work on the project you undertook during the second semester
 
 ## Submission
 
-- Use any technical blogging platform of your choice to publish your article. 
+* Use any technical blogging platform of your choice to publish your article. 
 
-- Make your submission through this form (https://forms.gle/KZodXp9nnxqF3PyQA).
+* Make your submission through this form (https://forms.gle/KZodXp9nnxqF3PyQA).
 
 Source: https://thealtschool.com/lessons/holiday-challenge-2/
