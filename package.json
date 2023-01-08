@@ -1,0 +1,27 @@
+{
+  "name": "holiday_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejeba72/holiday_challenge.git"
+  },
+  "author": "Emmanuel Eni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ejeba72/holiday_challenge/issues"
+  },
+  "homepage": "https://github.com/ejeba72/holiday_challenge#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
