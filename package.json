@@ -1,7 +1,7 @@
 {
   "name": "holiday_challenge",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is an holiday challenge for AltSchool Africa.",
   "main": "index.js",
   "scripts": {
     "start": "node index",
@@ -11,17 +11,21 @@
     "type": "git",
     "url": "git+https://github.com/ejeba72/holiday_challenge.git"
   },
-  "author": "Emmanuel Eni",
+  "author": "Emmanuel Eni <eejeba@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ejeba72/holiday_challenge/issues"
   },
   "homepage": "https://github.com/ejeba72/holiday_challenge#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.7.0"
+  },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  },
-  "dependencies": {
-    "dotenv": "^16.0.3",
-    "express": "^4.18.2"
   }
 }
